@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ahquahmian.securedrop.cz/sitemap.xml
